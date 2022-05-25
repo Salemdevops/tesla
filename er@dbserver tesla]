@@ -1,0 +1,41 @@
+[33mcommit 9758d0cfbc29c6013e13d60bf137b66d5819ce62[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Simon <simon@gmail.com>
+Date:   Tue May 24 16:19:14 2022 -0400
+
+    .gitignore file created
+
+[33mcommit cd8eb0f01552d5f3457a5fa1f6168a57046284b1[m[33m ([m[1;31mta/master[m[33m)[m
+Author: salemstrategies <105669066+salemstrategies@users.noreply.github.com>
+Date:   Tue May 24 11:56:26 2022 -0700
+
+    Create test.sh
+
+[33mcommit cb553d2f5fe7bade4720c9a5fd69c8bc2b924c56[m
+Author: salemstrategies <105669066+salemstrategies@users.noreply.github.com>
+Date:   Tue May 24 11:55:15 2022 -0700
+
+    Create monitor.app
+
+[33mcommit 0a059c7c890424b8f222b1355a793e954724a5be[m
+Author: salemstrategies <105669066+salemstrategies@users.noreply.github.com>
+Date:   Tue May 24 11:40:17 2022 -0700
+
+    list.java updated with chi
+
+[33mcommit c781cd6904605492c6f6327e50a1abec1ad48cf8[m
+Author: Simon <simon@gmail.com>
+Date:   Tue May 24 13:13:02 2022 -0400
+
+    users list created
+
+[33mcommit c9fa05777d221fe491c366232ac879ebef916c7d[m
+Author: Simon <simon@gmail.com>
+Date:   Mon May 16 19:19:15 2022 -0400
+
+    deployment ready
+
+[33mcommit 942d6eedd1a9f09c55bd3742bd0153e9c0aafc4c[m
+Author: Simon <simon@gmail.com>
+Date:   Mon May 16 18:55:12 2022 -0400
+
+    first application  version
